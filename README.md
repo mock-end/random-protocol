@@ -50,6 +50,14 @@ Return one of the following protocols:
 
 ## Related
 
+- [random-tld](https://github.com/mock-end/random-tld) - Return a random tld(Top Level Domain).
+- [random-domains](https://github.com/mock-end/random-domains) - Return a random domain.
+- [random-email](https://github.com/mock-end/random-email) - Return a random email.
+- [random-hashtag](https://github.com/mock-end/random-tld) - Return a random hashtag.
+- [random-uri](https://github.com/mock-end/random-uri.git) - Return a random url.
+- [random-ipv4](https://github.com/mock-end/random-ipv4) - Return a random ipv4 address.
+- [random-ipv6](https://github.com/mock-end/random-ipv6) - Return a random ipv6 address.
+- [random-avatar](https://github.com/mock-end/random-avatar) - Return a URL to a random avatar from Gravatar.
 
 ## Contributing
 
