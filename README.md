@@ -26,6 +26,28 @@ randomProtocol();
 // => http
 ```
 
+Return one of the following protocols:
+
+```js
+[
+  'http',
+  'https',
+  'ftp',
+  'gopher',
+  'mailto',
+  'mid',
+  'cid',
+  'news',
+  'nntp',
+  'prospero',
+  'telnet',
+  'rlogin',
+  'tn3270',
+  'wais'
+];
+```
+
+
 ## Related
 
 
